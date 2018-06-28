@@ -1,0 +1,92 @@
+How Should We Explore ‘Uncertainty’?
+
+Nowadays, with tools and technologies developed to make ‘predictions’, people boast about going where no one has gone before – ‘the future’. But, even within the context of the future they defined, there still is much ‘uncertainty’. Do we realise where actually we can ‘go’? Are we aware of the unknowable ‘forbidden’ areas that we may never set foot?
+
+Our understanding in due of limits imposed by data drives us to adopt the more practicable context: that data about a subject is what we’re interested in in order to project ‘appropriate actions’ on the subject.
+
+But how do we justify?
+
+While predictions can simply be applied to solve ‘narrow’ problems, it impose various ‘complexities’ and ‘consequences’ for solving more complex problems that can be very difficult to quantify , unsurprisingly problems that we might be more interested in and much at stake to solve!
+
+However, because of the way we think – where we wish to always ‘know’ for ‘certain’, we have more tendency to project our ‘actions’ in much the same way – ie. for ‘certain’!
+
+We fail to justify!
+
+For this, there is a term being used - ‘availability bias’, where the mind is always directed to what (information) is available, making us prone to prematurely making conclusions, being less creative, carrying out actions that we are familiar of (whether or not it is ideal) - as described in the book ‘The Art of Thinking Clearly’ by Rolf Dobelli:
+
+‘Why we prefer a wrong map to no map at all’.
+Perhaps what we need to be more aware of is that what we could do with predictions is actually limited to only ‘reduce uncertainty’, and most of the time when only limited information is available we often make wrong decisions.
+
+In the book ‘Our Final Invention’ by James Barratt, there is an interesting point about how we have been dealing with uncertainty.
+
+Human intelligence or the brain is the product of 250 millions of years of evolution via natural selection - dubbed as ‘the stupid algorithm’ - is not being finely ‘optimised’:
+
+‘We are not not not optimised. The way evolution works is by randomly trying things and testing them.’’ – Richard Granger.
+(But not ‘all’ things out there got tested)
+So, the way we have been dealing with uncertainty all these time tells us that we are naturally ‘slow’, and that is because we are trapped in our ‘uncertainty’.
+
+But, how is it imaginable to be ‘certain’, with the extent of unlimited possibilities ahead of us?
+
+And how is it ‘clever’ to be so ‘certain’?
+
+In this case, we should look at the context of ‘bad science’ and ‘good science’.
+
+In the book ‘Predictive Analytics’ by Erich Siegel, it was described that nowadays we could follow an approach of making hypotheses where available data lead us, instead of following the conventional approach of making a hypothesis and then testing the hypothesis by collecting data and analysing it.
+
+While we can use data to develop hypotheses, in this case where the hypothesis is made after seeing the data we must then test it on ‘unseen’ data.
+
+Without this, we may have to address the question of the likeliness of our observation to have just occurred by chance. But by following classic statistical method of calculation alone we must also take into account the potential of being fooled by randomness – ie. what we observed is unusual, but not that unusual.
+
+Implementation of predictive algorithms also has what is called ‘quantitative bias’ – ie. the algorithm is biased toward the ‘majority’. This is the case where the ‘black swans’ would always be the victims - of discrimination.
+
+Now, it is interesting to know how these would affect ‘creative and innovative’ environment we are trying to nurture when algorithms and automation are used throughout to process human behaviour on something as complex as someone’s tendency of leaving a job, or to determine the score on how ‘fit’ a candidate is in an employment screening.
+
+Surely it must not be too difficult to understand that not all things in this world can be perceived and followed ‘directly’.
+
+But when what we are trying to determine is really difficult, and when all that we can see is the ‘narrow’ solution ahead, the tendency of jumping straight into what is available is highly likely.
+
+This is common in many things we do in life - for example our ability to interpret complex language or poems, or perhaps in understanding and following instructions from the ‘holy’ books.
+
+But here, a more specific example of how we follow things ‘directly’ that I would like to explain involved the modelling of protein structure– more specifically via homology modelling method, as this is related to my own experience in research.
+
+Homology modelling in general is an ‘uncertain’ method. The real issue of homology modelling is dealing with ‘uncertain’ regions to model (eg. the protein side chains and the protein loop regions).
+
+As like some others computational approaches of structure modelling, homology modelling depends a lot on genuine data supplemented from experimental protein structures as well as other experimental sources of data and information to help build model structures.
+
+The lack of parameter access of the more ‘uncertain’ regions compared to the more consistent well-conserved regions (such as the transmembrane regions of membrane proteins) makes homology modelling less likely to predict accurately flexible regions that are more likely to hold key roles in a protein's functional mechanism.
+
+Specifically, for membrane proteins, there are also other important considerations involving for example the complex interactions with the lipid bilayer membrane environment, and is not limited to just that.
+
+Apparently, current development of homology modelling (or other computational modelling methods in general) has not been successful (yet) in application for studying proteins’ mechanisms ‘directly’, to compare to experimental method such as crystallography.
+
+It is a fact that computational methods have been developed as an alternative to experimental approaches to face challenges in protein studies especially involving membrane proteins. However, there have been tremendous development more recently in techniques involved in protein crystallography applied to study eukaryotic membrane proteins.
+
+Another example can be seen in a study published on the extent of which techniques of homology modelling for water-soluble proteins are appropriate for membrane proteins.
+
+Again, much more important in the first place is actually to realize that the method of homology modelling in general is ‘uncertain’, and the context or considerations for sequence alignment of a soluble protein and a membrane protein greatly differs.
+
+
+
+So, what can we say about building something constructive out of uncertainty?
+
+Exploring uncertainty has much to do with being ‘creative’.
+
+In fact, all the experiments we design are projected to obtain clarity on uncertainty to reduce uncertainty – all using our own ‘creative’ ways of ‘trying’ and ‘testing’.
+
+In this case, since homology modelling is an ‘uncertain’ method, and looking at homology models will not probably give us useful clues on how a protein's mechanism works, alternatively, we can use it to explore ‘uncertainty’ - by using it as a ‘mechanism’ to investigate protein model structure quality via a simple plan of a ‘test-case’ study.
+
+This was actually what I did for my research work in structural bioinformatics.
+
+We can even use computational modelling tools to ‘understand more about a protein’s structure – function mechanism, by designing a more complex plan of a case study using data that is more available nowadays.
+
+The plan of the test case study used in my work can actually be extended and re-designed to carry out more complex investigations.
+
+All these depend on ‘creative’ approach of ‘trying’ and ‘testing’!
+
+We cannot achieve much from the ‘narrow’ approach of machine alone by bluntly follow its outcomes without ‘justification’.
+
+That is as ‘narrow’ as making non-informed decisions based on just our human intuition.
+
+Perhaps what we should be more well-aware of is our ability to ‘learn’ and to look things from the right point of view and decide what we should do with the data we have - more appropriately.
+
+Or is it also perhaps possible to train machine to learn and achieve this better than us, human?
